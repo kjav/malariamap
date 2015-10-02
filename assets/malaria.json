@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "color": "gray",
+        "deaths": 10
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-0.054245, 7.818614], [-0.154245, 7.818614], [-0.154245, 7.718614], [-0.054245, 7.718614], [-0.054245, 7.818614]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "color": "gray",
+        "deaths": 71
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-0.154245, 7.818614], [-0.254245, 7.818614], [-0.254245, 7.718614], [-0.154245, 7.718614], [-0.154245, 7.818614]
+          ]
+        ]
+      }
+    }
+  ]
+}
